@@ -1,4 +1,4 @@
-# Birkbeck Department of Film, Media and Cultural Studies
+# Birkbeck School of Creative Arts, Culture and Communication
 
 ## For lecturers
 
