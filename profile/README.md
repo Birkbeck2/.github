@@ -1,5 +1,15 @@
 # Birkbeck School of Creative Arts, Culture and Communication
 
+Welcome!
+
+This GitHub organization (`Birkbeck2`) is used to house teaching and learning repositories for several modules in Birkbeck's Digital Media Design programme.
+
+To search a list of the `Birkbeck2` repositories that you have access to, go to [Repositories](https://github.com/orgs/Birkbeck2/repositories). Note you may also have repositories on your personal account--that's a separate list.
+
+## Getting started
+
+Are you new to GitHub? You may find what you need in the [GitHub Documentation](https://docs.github.com/).
+
 ## For lecturers
 
 ### Naming conventions for student repositories
