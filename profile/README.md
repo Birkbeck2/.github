@@ -10,7 +10,7 @@ Are you new to GitHub? You may find what you need in the [GitHub Documentation](
 
 ## Module repositories
 
-* [Web Development](https://github.com/Birkbeck2/web-development) is the main repository resource repository for lectures, workshops, sandboxes, and examples.
+* [Web Development](https://github.com/Birkbeck2/web-development) is the main content repository where we keep lecture materials, workshop instructions, and code sandboxes and examples.
 * [Canary](https://github.com/Birkbeck2/canary) is a private repository for collaboration, peer review, and discussion for students enrolled in 2024-25.
 
 ## Your repositories
@@ -21,6 +21,6 @@ To search a list of the `Birkbeck2` repositories that you have access to, go to 
 
 ### Naming conventions for student repositories
 
-When creating an assignment in GitHub Classrooms, use a prefix matching the module name so that it is easier to search and filter them.
+When creating an assignment in GitHub Classrooms, put the bird name for that academic year as a prefix so that it is easier to search and filter them.
 
-For example, for Web Development and User Experience, the repository name is `web-development`. For an HTML contact form assignment, you might name the assignment `web-development-contact-form`. This will result in student repositories with that as a prefix, such as `web-development-contact-form-joemull`.
+For example, for 2024-25, the bird is `canary`. For an HTML contact form homework, you might name the assignment `canary-homework-6-contact-form`. This will result in student repositories with that as a prefix, such as `canary-homework-6-contact-form-joemull`.
