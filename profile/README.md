@@ -10,8 +10,8 @@ Are you new to GitHub? You may find what you need in the [GitHub Documentation](
 
 ## Module repositories
 
-* [Web Development and User Experience (Autumn)](https://github.com/Birkbeck2/web-development)
-* [Visual Design and Web Project (Spring)](https://github.com/Birkbeck2/web-project)
+* [Web Development](https://github.com/Birkbeck2/web-development) is the main repository resource repository for lectures, workshops, sandboxes, and examples.
+* [Canary](https://github.com/Birkbeck2/canary) is a private repository for collaboration, peer review, and discussion for students enrolled in 2024-25.
 
 ## Your repositories
 
