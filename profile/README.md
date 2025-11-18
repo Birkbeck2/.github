@@ -8,11 +8,9 @@ This GitHub organization (`Birkbeck2`) is used to house teaching and learning re
 
 Are you new to GitHub? You may find what you need in the [GitHub Documentation](https://docs.github.com/).
 
-## Module repositories
+## Module repository
 
-* [Web Development](https://github.com/Birkbeck2/web-development) is the main content repository where we keep lecture materials, workshop instructions, and code sandboxes and examples.
-* [Canary](https://github.com/Birkbeck2/canary) is a private repository for collaboration, peer review, and discussion for students enrolled in 2024-25.
-* [Puffin](https://github.com/Birkbeck2/puffin) is a private repository for collaboration, peer review, and discussion for students enrolled in 2025-26.
+[Web Development](https://github.com/Birkbeck2/web-development) is the main content repository where we keep lecture materials, workshop instructions, and code sandboxes and examples.
 
 ## Your repositories
 
